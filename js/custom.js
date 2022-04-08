@@ -11,4 +11,6 @@ $(document).ready(function () {
     $('.materialboxed').materialbox();
 
     $('input#mobile, textarea#textarea1').characterCounter();
+
+    $('.scrollspy').scrollSpy();
 });
